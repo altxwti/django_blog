@@ -1,4 +1,4 @@
-# django_blog
+# Django_blog
 ## Проект Python Django с использованием Bootstrap
 
 ## Реализовано:
